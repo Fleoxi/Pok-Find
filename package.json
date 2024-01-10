@@ -1,0 +1,13 @@
+{
+  "name": "PokeFind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fleoxi <fleoxi.pro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
